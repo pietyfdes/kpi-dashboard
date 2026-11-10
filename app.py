@@ -278,6 +278,9 @@ def data_quality(raw: pd.DataFrame) -> tuple[pd.DataFrame, int]:
 # ----------------------------------------------------------------------------
 CSS = f"""
 <style>
+.stApp, [data-testid="stAppViewContainer"], [data-testid="stHeader"] {{background-color:#0e1117;color:#fafafa;}}
+[data-testid="stSidebar"], [data-testid="stSidebar"] > div {{background-color:#1a1d27;}}
+.stApp p, .stApp label, .stApp span, .stApp h1, .stApp h2, .stApp h3, .stApp li {{color:#fafafa;}}
 .kpi-card {{background:#1a1d27;border:1px solid #2c3040;border-radius:12px;padding:14px 16px;}}
 .kpi-label {{color:#9aa0b4;font-size:0.8rem;text-transform:uppercase;letter-spacing:.04em;}}
 .kpi-value {{font-size:1.6rem;font-weight:700;margin:2px 0;}}
