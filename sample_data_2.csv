@@ -1,0 +1,301 @@
+Date,Region,Product,Category,Salesperson,Units Sold,Revenue,Cost,Customer Segment
+2024-01-02,Latin America,Building Set,Toys,Valentina Cruz,2,144.81,76.51,Education
+2024-01-05,Asia,Building Set,Toys,Aarav Patel,22,1413.3,820.42,Enterprise
+2024-01-06,Europe,Board Game,Toys,Lukas Weber,5,163.44,92.98,Education
+2024-01-07,North America,Fitness Tracker,Health,Emma Brown,2,213.84,144.63,Education
+2024-01-08,Asia,Fitness Tracker,Health,Aarav Patel,7,706.48,483.85,Consumer
+2024-01-10,Africa,Gaming Mouse,Gaming,Kwame Mensah,21,1145.67,671.75,Consumer
+2024-01-12,Europe,Headset,Gaming,Sofia Rossi,25,2526.75,1540.66,Consumer
+2024-01-12,Europe,Board Game,Toys,Lukas Weber,28,917.77,430.53,Government
+2024-01-13,Latin America,Vitamin Pack,Health,Valentina Cruz,13,273.85,110.77,Consumer
+2024-01-13,Europe,Fitness Tracker,Health,Lukas Weber,8,805.43,596.99,Education
+2024-01-15,Africa,Headset,Gaming,Amara Okafor,26,2267.26,1265.86,Education
+2024-01-17,Africa,Blender,Appliances,Kwame Mensah,21,1590.25,971.58,Consumer
+2024-01-19,Europe,Espresso Machine,Appliances,Lukas Weber,8,3032.55,2177.58,Consumer
+2024-01-19,North America,Air Fryer,Appliances,Emma Brown,6,814.93,576.52,Enterprise
+2024-01-19,Europe,Yoga Mat,Health,Sofia Rossi,4,121.38,55.31,Education
+2024-01-22,Europe,Building Set,Toys,Sofia Rossi,18,1281.09,696.37,Education
+2024-01-23,Europe,Gaming Mouse,Gaming,Lukas Weber,29,1631.1,910.82,Enterprise
+2024-01-25,Europe,Vitamin Pack,Health,Sofia Rossi,7,156.7,61.66,Consumer
+2024-01-27,Latin America,Air Fryer,Appliances,Mateo Lopez,3,381.77,227.09,Government
+2024-01-28,Asia,Vitamin Pack,Health,Mei Tanaka,25,536.16,232.55,Enterprise
+2024-01-28,Asia,Gaming Mouse,Gaming,Aarav Patel,11,670.06,403.09,Enterprise
+2024-01-29,Europe,Blender,Appliances,Lukas Weber,19,1559.54,1048.5,Enterprise
+2024-02-01,Europe,Gaming Monitor,Gaming,Sofia Rossi,4,1367.49,977.03,Consumer
+2024-02-02,Latin America,Board Game,Toys,Valentina Cruz,28,924.29,505.69,Consumer
+2024-02-03,Latin America,Protein Powder,Health,Mateo Lopez,20,734.12,406.48,Government
+2024-02-08,Europe,Blender,Appliances,Sofia Rossi,6,435.69,299.31,Education
+2024-02-08,Asia,Fitness Tracker,Health,Aarav Patel,5,475.91,358.53,Education
+2024-02-09,North America,Espresso Machine,Appliances,Emma Brown,2,767.77,459.26,Enterprise
+2024-02-10,Asia,Vacuum Robot,Appliances,Aarav Patel,2,634.19,436.51,Consumer
+2024-02-13,Europe,Vitamin Pack,Health,Lukas Weber,11,215.63,94.56,Education
+2024-02-13,Asia,Headset,Gaming,Mei Tanaka,6,483.14,285.39,Government
+2024-02-14,Africa,Building Set,Toys,Kwame Mensah,4,243.34,138.91,Enterprise
+2024-02-16,Africa,Gaming Monitor,Gaming,Amara Okafor,3,904.72,823.55,Consumer
+2024-02-17,Asia,Board Game,Toys,Mei Tanaka,22,647.16,320.97,Government
+2024-02-20,Africa,Board Game,Toys,Amara Okafor,9,266.54,158.28,Education
+2024-02-20,Europe,Mechanical Keyboard,Gaming,Sofia Rossi,8,785.63,473.12,Government
+2024-02-21,Asia,Building Set,Toys,Mei Tanaka,4,256.69,158.52,Government
+2024-02-23,North America,Vacuum Robot,Appliances,Emma Brown,1,307.02,206.69,Enterprise
+2024-02-23,North America,Blender,Appliances,Jake Wilson,12,884.51,587.43,Consumer
+2024-02-24,Latin America,Vacuum Robot,Appliances,Mateo Lopez,4,1355.44,1080.26,Enterprise
+2024-02-25,Asia,Fitness Tracker,Health,Aarav Patel,1,102.05,69.84,Education
+2024-02-26,Asia,Espresso Machine,Appliances,Mei Tanaka,1,404.73,286.84,Education
+2024-02-26,North America,Gaming Monitor,Gaming,Emma Brown,2,734.58,550.46,Education
+2024-02-26,Europe,Protein Powder,Health,Lukas Weber,18,714.03,328.78,Government
+2024-03-01,Asia,Mechanical Keyboard,Gaming,Aarav Patel,6,634.96,366.92,Enterprise
+2024-03-01,Asia,Gaming Mouse,Gaming,Mei Tanaka,3,167.29,86.43,Consumer
+2024-03-01,Asia,Vitamin Pack,Health,Mei Tanaka,20,369.54,148.58,Enterprise
+2024-03-02,Europe,Gaming Mouse,Gaming,Lukas Weber,22,1135.83,649.69,Government
+2024-03-05,North America,Gaming Mouse,Gaming,Jake Wilson,17,902.64,576.86,Education
+2024-03-07,Asia,Gaming Monitor,Gaming,Aarav Patel,7,2498.11,2013.91,Consumer
+2024-03-08,Europe,Gaming Mouse,Gaming,Lukas Weber,29,1668.73,902.68,Enterprise
+2024-03-08,Asia,Espresso Machine,Appliances,Mei Tanaka,9,3077.6,2153.02,Consumer
+2024-03-10,Europe,Vacuum Robot,Appliances,Lukas Weber,5,1584.77,1126.94,Government
+2024-03-10,Asia,Vacuum Robot,Appliances,Aarav Patel,9,2657.3,2126.84,Government
+2024-03-11,North America,Air Fryer,Appliances,Emma Brown,8,892.86,498.84,Education
+2024-03-11,Asia,Gaming Monitor,Gaming,Aarav Patel,5,1563.68,1294.88,Government
+2024-03-12,Asia,Blender,Appliances,Mei Tanaka,9,613.09,343.13,Consumer
+2024-03-15,Europe,Gaming Monitor,Gaming,Lukas Weber,5,1515.35,1392.45,Government
+2024-03-16,Asia,Air Fryer,Appliances,Mei Tanaka,2,219.64,159.33,Enterprise
+2024-03-16,Asia,Vitamin Pack,Health,Aarav Patel,10,185.14,78.37,Government
+2024-03-20,Europe,Gaming Monitor,Gaming,Lukas Weber,3,992.68,810.51,Consumer
+2024-03-21,Africa,Protein Powder,Health,Kwame Mensah,1,37.13,16.92,Enterprise
+2024-03-21,Asia,Board Game,Toys,Aarav Patel,6,168.7,87.7,Enterprise
+2024-03-22,North America,Gaming Mouse,Gaming,Emma Brown,13,649.37,399.21,Enterprise
+2024-03-23,Europe,RC Car,Toys,Sofia Rossi,13,655.36,459.94,Enterprise
+2024-03-25,Africa,Vacuum Robot,Appliances,Amara Okafor,8,2472.86,1919.98,Education
+2024-03-27,Asia,RC Car,Toys,Aarav Patel,20,910.84,569.2,Education
+2024-03-28,North America,Espresso Machine,Appliances,Jake Wilson,9,3306.61,2467.97,Consumer
+2024-03-29,Africa,RC Car,Toys,Kwame Mensah,29,1472.75,991.06,Enterprise
+2024-03-30,Asia,RC Car,Toys,Mei Tanaka,2,100.71,59.2,Consumer
+2024-03-31,Europe,Headset,Gaming,Lukas Weber,25,1915.85,1294.14,Government
+2024-03-31,Africa,Building Set,Toys,Kwame Mensah,8,443.59,243.44,Government
+2024-03-31,Africa,Mechanical Keyboard,Gaming,Kwame Mensah,5,520.04,328.92,Consumer
+2024-04-02,Asia,Building Set,Toys,Mei Tanaka,4,252.74,162.94,Government
+2024-04-03,Asia,Building Set,Toys,Aarav Patel,4,288.4,161.15,Consumer
+2024-04-04,Asia,Gaming Mouse,Gaming,Aarav Patel,12,636.46,384.04,Enterprise
+2024-04-07,Europe,Protein Powder,Health,Sofia Rossi,7,333.68,150.19,Government
+2024-04-08,Europe,Fitness Tracker,Health,Sofia Rossi,7,783.35,535.31,Consumer
+2024-04-11,Asia,Yoga Mat,Health,Aarav Patel,29,853.39,382.1,Education
+2024-04-15,Europe,Yoga Mat,Health,Lukas Weber,7,187.63,80.92,Government
+2024-04-16,North America,Protein Powder,Health,Jake Wilson,16,682.25,326.84,Consumer
+2024-04-17,Asia,RC Car,Toys,Aarav Patel,15,741.11,537.8,Education
+2024-04-18,North America,RC Car,Toys,Emma Brown,27,1576.08,1142.18,Government
+2024-04-18,Latin America,RC Car,Toys,Valentina Cruz,3,162.0,91.52,Enterprise
+2024-04-19,Asia,Espresso Machine,Appliances,Mei Tanaka,9,3961.57,2441.34,Education
+2024-04-19,Europe,Blender,Appliances,Lukas Weber,18,1632.69,893.71,Education
+2024-04-21,Africa,Blender,Appliances,Amara Okafor,12,944.29,647.33,Enterprise
+2024-04-24,North America,Yoga Mat,Health,Emma Brown,8,213.93,107.7,Enterprise
+2024-04-25,Asia,Protein Powder,Health,Mei Tanaka,25,1195.9,687.08,Enterprise
+2024-04-26,Asia,Air Fryer,Appliances,Mei Tanaka,8,1082.53,717.23,Enterprise
+2024-04-27,Asia,Espresso Machine,Appliances,Mei Tanaka,2,753.71,518.14,Education
+2024-04-28,North America,Gaming Monitor,Gaming,Emma Brown,7,2577.43,2037.44,Enterprise
+2024-05-02,Europe,Building Set,Toys,Sofia Rossi,8,591.85,334.99,Education
+2024-05-02,Europe,Gaming Monitor,Gaming,Lukas Weber,3,1168.3,1009.85,Education
+2024-05-02,North America,Gaming Monitor,Gaming,Jake Wilson,2,766.25,688.22,Consumer
+2024-05-04,Asia,RC Car,Toys,Mei Tanaka,3,159.87,116.45,Consumer
+2024-05-04,Asia,Protein Powder,Health,Aarav Patel,26,1061.77,588.83,Government
+2024-05-05,Asia,Fitness Tracker,Health,Mei Tanaka,3,309.73,204.02,Government
+2024-05-05,Asia,Protein Powder,Health,Mei Tanaka,4,187.24,105.76,Consumer
+2024-05-09,Europe,Vitamin Pack,Health,Lukas Weber,27,591.79,266.34,Enterprise
+2024-05-12,North America,Vitamin Pack,Health,Emma Brown,20,438.23,171.49,Enterprise
+2024-05-13,Latin America,Protein Powder,Health,Mateo Lopez,22,897.73,425.62,Government
+2024-05-14,Europe,Vitamin Pack,Health,Sofia Rossi,26,597.44,268.11,Government
+2024-05-15,North America,Vacuum Robot,Appliances,Emma Brown,7,2285.81,1934.72,Enterprise
+2024-05-16,Europe,Board Game,Toys,Lukas Weber,9,297.14,165.2,Government
+2024-05-16,Asia,Blender,Appliances,Mei Tanaka,13,1033.41,553.7,Enterprise
+2024-05-17,North America,Blender,Appliances,Jake Wilson,2,176.86,121.87,Government
+2024-05-17,North America,Gaming Monitor,Gaming,Emma Brown,1,368.46,291.95,Consumer
+2024-05-17,Asia,RC Car,Toys,Mei Tanaka,29,1694.52,1043.14,Enterprise
+2024-05-18,Asia,Gaming Mouse,Gaming,Aarav Patel,26,1572.97,926.48,Enterprise
+2024-05-18,North America,Building Set,Toys,Emma Brown,25,1681.14,817.93,Government
+2024-05-18,Europe,Fitness Tracker,Health,Lukas Weber,4,433.89,307.78,Consumer
+2024-05-23,Europe,Board Game,Toys,Sofia Rossi,15,541.82,297.06,Enterprise
+2024-05-24,Asia,Protein Powder,Health,Mei Tanaka,6,261.55,143.03,Consumer
+2024-05-25,Africa,Headset,Gaming,Amara Okafor,7,652.75,363.36,Enterprise
+2024-05-27,Asia,Espresso Machine,Appliances,Mei Tanaka,4,1550.64,1127.33,Consumer
+2024-05-29,Latin America,Protein Powder,Health,Valentina Cruz,26,1200.38,618.14,Consumer
+2024-05-29,Africa,Building Set,Toys,Kwame Mensah,27,1674.55,1083.63,Enterprise
+2024-05-29,North America,Fitness Tracker,Health,Jake Wilson,8,898.68,598.89,Education
+2024-05-29,North America,Building Set,Toys,Emma Brown,11,732.29,431.04,Government
+2024-05-30,Asia,RC Car,Toys,Aarav Patel,21,1218.81,773.45,Government
+2024-05-30,North America,Fitness Tracker,Health,Jake Wilson,6,605.07,355.71,Enterprise
+2024-05-30,North America,Yoga Mat,Health,Jake Wilson,21,679.39,279.58,Consumer
+2024-05-31,Latin America,Vacuum Robot,Appliances,Mateo Lopez,1,356.89,253.09,Enterprise
+2024-05-31,Europe,Gaming Mouse,Gaming,Lukas Weber,3,168.52,90.15,Government
+2024-06-01,Latin America,Vitamin Pack,Health,Valentina Cruz,13,268.15,101.05,Consumer
+2024-06-06,North America,Vacuum Robot,Appliances,Emma Brown,7,2383.52,1687.22,Enterprise
+2024-06-07,North America,Protein Powder,Health,Emma Brown,1,42.95,24.5,Consumer
+2024-06-08,Asia,Building Set,Toys,Aarav Patel,3,226.29,114.26,Consumer
+2024-06-08,Asia,Gaming Monitor,Gaming,Aarav Patel,5,1761.03,1278.44,Consumer
+2024-06-10,North America,Building Set,Toys,Jake Wilson,15,1028.34,541.01,Consumer
+2024-06-10,North America,Yoga Mat,Health,Emma Brown,15,408.42,163.32,Government
+2024-06-10,Asia,Gaming Monitor,Gaming,Aarav Patel,8,2864.24,2534.41,Consumer
+2024-06-11,Asia,Headset,Gaming,Mei Tanaka,7,652.04,454.08,Government
+2024-06-12,Europe,Gaming Mouse,Gaming,Sofia Rossi,22,1168.25,650.03,Consumer
+2024-06-13,North America,Blender,Appliances,Jake Wilson,19,1654.07,1150.3,Government
+2024-06-13,North America,Espresso Machine,Appliances,Emma Brown,8,3539.47,2106.46,Education
+2024-06-14,Asia,Vacuum Robot,Appliances,Aarav Patel,7,2573.18,2272.24,Government
+2024-06-15,Latin America,Yoga Mat,Health,Mateo Lopez,27,835.55,382.76,Consumer
+2024-06-16,North America,Building Set,Toys,Emma Brown,18,1204.71,611.59,Consumer
+2024-06-16,Asia,Gaming Monitor,Gaming,Aarav Patel,9,3609.45,2789.72,Consumer
+2024-06-17,North America,Espresso Machine,Appliances,Emma Brown,6,2468.99,1574.11,Consumer
+2024-06-18,Africa,RC Car,Toys,Amara Okafor,28,1576.55,954.78,Education
+2024-06-19,Latin America,Building Set,Toys,Valentina Cruz,3,219.62,133.81,Government
+2024-06-19,Latin America,Fitness Tracker,Health,Valentina Cruz,8,857.77,620.54,Enterprise
+2024-06-19,Europe,Mechanical Keyboard,Gaming,Sofia Rossi,4,411.92,213.7,Enterprise
+2024-06-22,Europe,Mechanical Keyboard,Gaming,Lukas Weber,1,112.53,62.67,Government
+2024-06-23,Asia,Board Game,Toys,Mei Tanaka,10,356.7,167.41,Consumer
+2024-06-24,North America,Building Set,Toys,Jake Wilson,14,922.51,592.01,Government
+2024-06-27,Africa,Yoga Mat,Health,Kwame Mensah,9,271.13,128.71,Enterprise
+2024-06-27,Europe,Headset,Gaming,Lukas Weber,1,96.44,69.26,Education
+2024-06-28,Europe,Gaming Monitor,Gaming,Lukas Weber,7,2712.36,2150.01,Consumer
+2024-06-28,Africa,Mechanical Keyboard,Gaming,Amara Okafor,7,738.03,468.85,Enterprise
+2024-06-28,Europe,Yoga Mat,Health,Lukas Weber,29,913.79,423.88,Enterprise
+2024-06-29,Europe,Board Game,Toys,Sofia Rossi,11,365.77,168.4,Enterprise
+2024-06-29,Africa,Gaming Monitor,Gaming,Amara Okafor,9,3358.97,3076.69,Consumer
+2024-07-01,Asia,Building Set,Toys,Mei Tanaka,24,1746.22,981.04,Enterprise
+2024-07-01,Africa,Fitness Tracker,Health,Kwame Mensah,9,945.03,714.93,Enterprise
+2024-07-01,Europe,Gaming Monitor,Gaming,Lukas Weber,3,1148.28,856.22,Consumer
+2024-07-02,Europe,Fitness Tracker,Health,Sofia Rossi,6,658.3,499.42,Enterprise
+2024-07-03,Europe,Building Set,Toys,Sofia Rossi,5,334.67,208.45,Consumer
+2024-07-05,Asia,Board Game,Toys,Mei Tanaka,21,759.47,425.07,Government
+2024-07-06,Asia,Gaming Monitor,Gaming,Mei Tanaka,7,2736.46,2469.66,Education
+2024-07-06,Europe,Gaming Monitor,Gaming,Sofia Rossi,2,783.12,705.34,Government
+2024-07-07,North America,Board Game,Toys,Jake Wilson,14,469.97,267.24,Consumer
+2024-07-07,Europe,Protein Powder,Health,Lukas Weber,13,549.13,270.55,Government
+2024-07-08,Africa,Vacuum Robot,Appliances,Kwame Mensah,7,2363.64,1791.9,Government
+2024-07-10,North America,Gaming Mouse,Gaming,Emma Brown,28,1667.5,978.97,Consumer
+2024-07-10,North America,Vitamin Pack,Health,Emma Brown,6,117.77,50.9,Government
+2024-07-11,Latin America,Mechanical Keyboard,Gaming,Mateo Lopez,4,419.91,254.15,Consumer
+2024-07-14,Asia,Board Game,Toys,Mei Tanaka,8,295.7,155.68,Government
+2024-07-14,Europe,Vacuum Robot,Appliances,Lukas Weber,8,2767.7,1979.42,Government
+2024-07-19,North America,Mechanical Keyboard,Gaming,Emma Brown,7,700.82,412.29,Consumer
+2024-07-20,Asia,RC Car,Toys,Mei Tanaka,14,753.2,436.38,Education
+2024-07-21,Africa,Blender,Appliances,Amara Okafor,14,1217.93,749.1,Consumer
+2024-07-25,Europe,Blender,Appliances,Lukas Weber,9,801.25,536.46,Enterprise
+2024-07-28,Europe,Gaming Monitor,Gaming,Lukas Weber,4,1491.34,1114.88,Enterprise
+2024-07-29,Europe,Gaming Mouse,Gaming,Sofia Rossi,27,1487.34,960.64,Government
+2024-07-30,Latin America,Mechanical Keyboard,Gaming,Mateo Lopez,2,217.58,138.92,Enterprise
+2024-07-31,North America,Protein Powder,Health,Jake Wilson,25,1142.48,589.56,Enterprise
+2024-08-02,Asia,Fitness Tracker,Health,Aarav Patel,7,679.05,423.08,Government
+2024-08-04,Europe,Protein Powder,Health,Lukas Weber,21,832.68,387.3,Government
+2024-08-05,Asia,Gaming Monitor,Gaming,Aarav Patel,1,401.18,300.2,Education
+2024-08-09,North America,Fitness Tracker,Health,Jake Wilson,9,1029.78,624.99,Enterprise
+2024-08-12,Asia,Board Game,Toys,Aarav Patel,13,447.25,232.54,Government
+2024-08-12,Europe,Mechanical Keyboard,Gaming,Lukas Weber,6,680.1,417.42,Government
+2024-08-14,Africa,Building Set,Toys,Amara Okafor,26,1803.52,1006.11,Education
+2024-08-15,Latin America,Board Game,Toys,Valentina Cruz,11,388.22,198.35,Consumer
+2024-08-15,Asia,Protein Powder,Health,Mei Tanaka,8,325.62,157.64,Enterprise
+2024-08-16,Latin America,RC Car,Toys,Valentina Cruz,17,864.91,522.35,Enterprise
+2024-08-16,Asia,Fitness Tracker,Health,Mei Tanaka,6,707.82,540.99,Consumer
+2024-08-17,Africa,Fitness Tracker,Health,Amara Okafor,9,909.5,587.09,Government
+2024-08-18,North America,Board Game,Toys,Jake Wilson,28,1004.67,486.22,Consumer
+2024-08-18,Africa,Blender,Appliances,Amara Okafor,9,734.14,409.14,Consumer
+2024-08-20,Latin America,Air Fryer,Appliances,Mateo Lopez,7,929.66,564.42,Enterprise
+2024-08-21,Europe,Protein Powder,Health,Sofia Rossi,24,955.01,426.78,Government
+2024-08-22,North America,Headset,Gaming,Emma Brown,14,1314.34,829.87,Education
+2024-08-23,Europe,Building Set,Toys,Sofia Rossi,18,1123.73,616.7,Enterprise
+2024-08-23,Latin America,Gaming Monitor,Gaming,Valentina Cruz,2,732.47,653.93,Consumer
+2024-08-24,Latin America,Board Game,Toys,Valentina Cruz,10,309.71,180.61,Enterprise
+2024-08-27,Asia,Headset,Gaming,Aarav Patel,28,2590.13,1589.39,Education
+2024-08-27,Asia,Mechanical Keyboard,Gaming,Mei Tanaka,4,442.07,296.81,Enterprise
+2024-08-28,Europe,Vitamin Pack,Health,Sofia Rossi,25,515.88,223.66,Enterprise
+2024-08-28,Latin America,RC Car,Toys,Valentina Cruz,29,1678.74,1071.89,Government
+2024-08-29,Africa,Building Set,Toys,Kwame Mensah,8,536.94,280.71,Consumer
+2024-08-30,Europe,Gaming Monitor,Gaming,Sofia Rossi,8,3159.85,2313.7,Government
+2024-08-31,Europe,Protein Powder,Health,Sofia Rossi,1,40.35,21.28,Government
+2024-09-02,Asia,Fitness Tracker,Health,Mei Tanaka,1,113.72,66.93,Education
+2024-09-03,Latin America,Air Fryer,Appliances,Valentina Cruz,9,1053.3,636.63,Consumer
+2024-09-03,Europe,Headset,Gaming,Lukas Weber,18,1539.13,903.25,Education
+2024-09-06,Asia,Blender,Appliances,Mei Tanaka,11,893.23,565.3,Government
+2024-09-10,Europe,Fitness Tracker,Health,Sofia Rossi,2,222.84,140.74,Enterprise
+2024-09-12,North America,RC Car,Toys,Emma Brown,9,498.57,276.82,Education
+2024-09-13,North America,RC Car,Toys,Jake Wilson,19,1126.29,662.71,Consumer
+2024-09-13,Latin America,Headset,Gaming,Mateo Lopez,20,1951.56,1159.8,Consumer
+2024-09-13,North America,Gaming Mouse,Gaming,Jake Wilson,22,1172.86,598.34,Enterprise
+2024-09-16,Asia,Building Set,Toys,Mei Tanaka,3,198.73,126.78,Consumer
+2024-09-17,Asia,Protein Powder,Health,Mei Tanaka,20,931.77,513.32,Government
+2024-09-20,Europe,Gaming Monitor,Gaming,Sofia Rossi,6,2428.6,1735.75,Enterprise
+2024-09-21,Latin America,Air Fryer,Appliances,Valentina Cruz,5,593.0,333.84,Enterprise
+2024-09-22,Europe,Headset,Gaming,Sofia Rossi,2,186.91,126.42,Consumer
+2024-09-23,Asia,Espresso Machine,Appliances,Mei Tanaka,1,414.97,277.84,Education
+2024-09-29,Africa,Vitamin Pack,Health,Amara Okafor,8,183.25,76.8,Education
+2024-09-29,Europe,Gaming Mouse,Gaming,Lukas Weber,21,1197.91,787.08,Government
+2024-09-29,Europe,Air Fryer,Appliances,Lukas Weber,3,385.51,259.77,Consumer
+2024-09-29,Asia,Headset,Gaming,Aarav Patel,17,1570.68,914.47,Consumer
+2024-10-01,Asia,Air Fryer,Appliances,Mei Tanaka,7,911.47,561.63,Education
+2024-10-02,Europe,Vitamin Pack,Health,Sofia Rossi,29,602.26,208.84,Enterprise
+2024-10-02,Africa,Mechanical Keyboard,Gaming,Amara Okafor,2,236.08,147.98,Government
+2024-10-02,North America,Board Game,Toys,Emma Brown,21,669.9,371.72,Enterprise
+2024-10-03,Asia,Air Fryer,Appliances,Mei Tanaka,4,519.65,321.81,Government
+2024-10-03,Europe,Gaming Monitor,Gaming,Sofia Rossi,7,2359.1,1871.27,Government
+2024-10-03,Africa,Protein Powder,Health,Amara Okafor,8,367.37,165.56,Government
+2024-10-05,Africa,Espresso Machine,Appliances,Amara Okafor,2,858.93,650.57,Enterprise
+2024-10-05,Europe,Building Set,Toys,Sofia Rossi,15,1108.22,659.38,Consumer
+2024-10-06,Latin America,Espresso Machine,Appliances,Valentina Cruz,9,3411.98,2643.75,Education
+2024-10-06,Asia,Building Set,Toys,Mei Tanaka,10,700.0,347.73,Consumer
+2024-10-06,Asia,Yoga Mat,Health,Mei Tanaka,12,382.83,191.39,Enterprise
+2024-10-07,Africa,Vitamin Pack,Health,Amara Okafor,29,680.54,233.15,Education
+2024-10-09,North America,Protein Powder,Health,Jake Wilson,8,345.93,187.05,Enterprise
+2024-10-16,North America,Mechanical Keyboard,Gaming,Jake Wilson,7,765.4,517.31,Education
+2024-10-18,Europe,Building Set,Toys,Lukas Weber,9,672.73,381.87,Consumer
+2024-10-20,Asia,Yoga Mat,Health,Aarav Patel,15,421.01,175.26,Education
+2024-10-21,Asia,Fitness Tracker,Health,Mei Tanaka,6,673.58,471.23,Government
+2024-10-22,North America,Gaming Monitor,Gaming,Jake Wilson,2,689.61,535.97,Government
+2024-10-22,Latin America,Building Set,Toys,Valentina Cruz,6,451.09,234.04,Government
+2024-10-28,North America,Building Set,Toys,Jake Wilson,6,428.18,265.67,Education
+2024-10-31,Africa,Blender,Appliances,Kwame Mensah,25,2145.0,1279.36,Consumer
+2024-10-31,Asia,Gaming Monitor,Gaming,Aarav Patel,5,1817.79,1473.15,Education
+2024-11-04,North America,Gaming Monitor,Gaming,Emma Brown,6,2873.5,2141.22,Government
+2024-11-05,North America,Gaming Mouse,Gaming,Jake Wilson,20,1619.17,843.35,Government
+2024-11-06,Africa,Mechanical Keyboard,Gaming,Amara Okafor,7,910.99,497.32,Enterprise
+2024-11-07,Europe,Gaming Monitor,Gaming,Lukas Weber,2,877.01,693.5,Enterprise
+2024-11-08,North America,Board Game,Toys,Jake Wilson,6,253.83,147.88,Enterprise
+2024-11-08,North America,Air Fryer,Appliances,Jake Wilson,4,600.94,433.14,Education
+2024-11-13,North America,RC Car,Toys,Jake Wilson,11,676.9,459.25,Government
+2024-11-14,Asia,Vitamin Pack,Health,Aarav Patel,14,389.76,155.86,Enterprise
+2024-11-14,North America,Fitness Tracker,Health,Emma Brown,3,427.2,269.79,Enterprise
+2024-11-15,North America,Protein Powder,Health,Jake Wilson,16,933.68,520.22,Enterprise
+2024-11-17,Europe,RC Car,Toys,Sofia Rossi,21,1290.34,809.93,Consumer
+2024-11-17,North America,Protein Powder,Health,Jake Wilson,11,569.3,288.52,Government
+2024-11-19,Asia,Gaming Monitor,Gaming,Mei Tanaka,6,2872.09,2425.72,Government
+2024-11-20,Africa,Vacuum Robot,Appliances,Amara Okafor,4,1797.59,1298.21,Enterprise
+2024-11-20,Europe,Protein Powder,Health,Lukas Weber,14,771.52,360.72,Government
+2024-11-21,Latin America,Board Game,Toys,Mateo Lopez,16,744.19,340.09,Consumer
+2024-11-21,North America,Vacuum Robot,Appliances,Jake Wilson,9,3679.98,2918.37,Education
+2024-11-21,North America,Espresso Machine,Appliances,Jake Wilson,2,979.82,645.02,Education
+2024-11-24,North America,Mechanical Keyboard,Gaming,Emma Brown,9,1167.72,604.62,Government
+2024-11-25,Europe,Vitamin Pack,Health,Sofia Rossi,26,735.42,300.19,Enterprise
+2024-11-26,North America,Mechanical Keyboard,Gaming,Emma Brown,3,378.88,254.48,Consumer
+2024-11-26,Europe,Headset,Gaming,Lukas Weber,16,1704.88,1164.89,Education
+2024-11-29,Asia,Mechanical Keyboard,Gaming,Mei Tanaka,5,611.8,371.28,Consumer
+2024-11-30,Asia,Building Set,Toys,Mei Tanaka,14,1232.61,709.02,Consumer
+2024-12-02,North America,Yoga Mat,Health,Emma Brown,26,968.88,422.25,Government
+2024-12-03,Europe,Vitamin Pack,Health,Sofia Rossi,28,823.71,293.44,Consumer
+2024-12-04,Latin America,Mechanical Keyboard,Gaming,Valentina Cruz,6,734.16,459.9,Government
+2024-12-05,Asia,Yoga Mat,Health,Aarav Patel,20,794.03,335.62,Consumer
+2024-12-06,Latin America,Headset,Gaming,Mateo Lopez,25,2825.26,1576.01,Education
+2024-12-07,North America,Fitness Tracker,Health,Emma Brown,7,953.54,696.99,Enterprise
+2024-12-08,North America,Fitness Tracker,Health,Jake Wilson,3,391.73,271.48,Education
+2024-12-08,Europe,Yoga Mat,Health,Lukas Weber,1,33.26,14.88,Consumer
+2024-12-08,Europe,Vitamin Pack,Health,Sofia Rossi,9,263.31,99.55,Education
+2024-12-08,Asia,Yoga Mat,Health,Aarav Patel,17,601.81,297.78,Consumer
+2024-12-08,Europe,Board Game,Toys,Sofia Rossi,8,341.67,170.94,Government
+2024-12-09,Europe,Gaming Mouse,Gaming,Sofia Rossi,19,1441.54,858.83,Consumer
+2024-12-09,Asia,Building Set,Toys,Aarav Patel,16,1385.1,834.41,Consumer
+2024-12-10,Africa,Vitamin Pack,Health,Kwame Mensah,3,75.43,29.99,Education
+2024-12-12,North America,Mechanical Keyboard,Gaming,Emma Brown,2,294.43,195.66,Consumer
+2024-12-13,Asia,Vitamin Pack,Health,Mei Tanaka,24,660.17,278.64,Enterprise
+2024-12-13,Asia,Espresso Machine,Appliances,Mei Tanaka,8,4422.96,3072.95,Education
+2024-12-13,Africa,Mechanical Keyboard,Gaming,Kwame Mensah,1,131.07,85.07,Education
+2024-12-14,Latin America,Fitness Tracker,Health,Mateo Lopez,7,911.81,538.77,Consumer
+2024-12-14,Latin America,Headset,Gaming,Valentina Cruz,27,3154.19,1711.85,Consumer
+2024-12-17,North America,Mechanical Keyboard,Gaming,Jake Wilson,4,558.51,319.5,Education
+2024-12-18,North America,Protein Powder,Health,Emma Brown,7,404.05,190.76,Government
+2024-12-22,Europe,Vitamin Pack,Health,Lukas Weber,8,212.47,88.66,Enterprise
+2024-12-25,Latin America,Vacuum Robot,Appliances,Mateo Lopez,4,1648.97,1283.14,Consumer
+2024-12-29,North America,Espresso Machine,Appliances,Jake Wilson,3,1696.03,1256.13,Government
+2024-12-29,North America,RC Car,Toys,Emma Brown,26,1679.39,1168.78,Consumer
+2024-12-31,North America,Yoga Mat,Health,Jake Wilson,16,610.36,249.66,Education
