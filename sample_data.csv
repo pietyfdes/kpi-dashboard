@@ -1,0 +1,201 @@
+Date,Region,Product,Category,Salesperson,Units Sold,Revenue,Cost,Customer Segment
+2025-01-02,West,Gel Pens,Stationery,Grace Kim,18,136.6,50.79,Small Business
+2025-01-02,West,Laptop Pro,Electronics,Grace Kim,6,6286.82,4629.04,Corporate
+2025-01-04,West,Standing Desk,Furniture,Grace Kim,7,2826.22,2171.94,Consumer
+2025-01-04,South,Standing Desk,Furniture,Carla Diaz,5,2364.65,1779.43,Consumer
+2025-01-08,West,Bookshelf,Furniture,Grace Kim,6,980.95,613.07,Corporate
+2025-01-09,South,Laptop Pro,Electronics,Carla Diaz,7,6934.01,4616.71,Small Business
+2025-01-11,South,Office Chair,Furniture,Carla Diaz,3,643.61,479.3,Small Business
+2025-01-13,East,Wireless Earbuds,Electronics,Frank Li,2,271.2,166.34,Consumer
+2025-01-13,North,Backpack,Apparel,Ben Carter,20,1048.34,546.22,Consumer
+2025-01-18,South,Running Shoes,Apparel,Dan Perez,2,144.45,83.46,Consumer
+2025-01-19,North,Office Chair,Furniture,Alice Moore,2,397.25,273.85,Corporate
+2025-01-19,North,Wireless Earbuds,Electronics,Ben Carter,5,617.5,379.86,Consumer
+2025-01-20,East,Gel Pens,Stationery,Eva Chen,19,140.02,53.37,Small Business
+2025-01-27,East,Rain Jacket,Apparel,Frank Li,4,409.33,253.7,Consumer
+2025-01-28,South,Wireless Earbuds,Electronics,Dan Perez,6,718.06,410.28,Small Business
+2025-02-01,North,Backpack,Apparel,Alice Moore,23,1260.65,652.8,Small Business
+2025-02-02,North,Bookshelf,Furniture,Alice Moore,4,678.01,467.6,Consumer
+2025-02-03,North,Bookshelf,Furniture,Alice Moore,4,607.9,417.19,Corporate
+2025-02-03,East,Notebook Pack,Stationery,Eva Chen,14,149.31,60.99,Corporate
+2025-02-03,West,Notebook Pack,Stationery,Grace Kim,22,245.97,116.82,Consumer
+2025-02-04,East,Smartphone X,Electronics,Frank Li,5,3392.49,2384.13,Consumer
+2025-02-08,West,Smartphone X,Electronics,Hugo Silva,1,802.88,519.74,Small Business
+2025-02-11,North,Bookshelf,Furniture,Ben Carter,1,166.65,112.24,Corporate
+2025-02-13,East,Gel Pens,Stationery,Frank Li,7,53.45,23.13,Small Business
+2025-02-13,West,Backpack,Apparel,Grace Kim,19,1096.28,632.48,Consumer
+2025-02-13,North,Notebook Pack,Stationery,Ben Carter,14,170.86,82.67,Corporate
+2025-02-14,East,Rain Jacket,Apparel,Frank Li,1,112.96,72.62,Consumer
+2025-02-18,South,Backpack,Apparel,Dan Perez,12,687.69,407.27,Consumer
+2025-02-19,East,Laptop Pro,Electronics,Frank Li,5,5095.39,4124.55,Consumer
+2025-02-22,East,Running Shoes,Apparel,Eva Chen,17,1383.5,850.75,Consumer
+2025-02-22,West,Rain Jacket,Apparel,Hugo Silva,6,698.18,426.11,Consumer
+2025-02-25,North,Office Chair,Furniture,Alice Moore,7,1613.02,1201.8,Consumer
+2025-02-26,North,Gel Pens,Stationery,Ben Carter,7,48.21,17.91,Consumer
+2025-02-28,South,Backpack,Apparel,Dan Perez,20,1154.46,587.17,Small Business
+2025-03-02,South,Bookshelf,Furniture,Dan Perez,3,511.12,314.32,Corporate
+2025-03-03,East,Notebook Pack,Stationery,Eva Chen,5,60.78,28.53,Corporate
+2025-03-04,South,Standing Desk,Furniture,Dan Perez,5,2566.88,2175.78,Corporate
+2025-03-04,North,Bookshelf,Furniture,Alice Moore,4,662.67,436.83,Small Business
+2025-03-06,South,Standing Desk,Furniture,Carla Diaz,6,2807.7,2084.75,Corporate
+2025-03-08,South,Notebook Pack,Stationery,Dan Perez,23,283.94,141.28,Corporate
+2025-03-09,East,Gel Pens,Stationery,Frank Li,14,109.67,46.91,Small Business
+2025-03-10,South,Wireless Earbuds,Electronics,Carla Diaz,3,418.01,212.86,Corporate
+2025-03-11,East,Rain Jacket,Apparel,Eva Chen,2,218.27,122.39,Small Business
+2025-03-12,North,Standing Desk,Furniture,Ben Carter,6,2886.2,1999.03,Small Business
+2025-03-12,North,Gel Pens,Stationery,Ben Carter,8,63.87,26.74,Corporate
+2025-03-13,North,Desk Organizer,Stationery,Ben Carter,5,113.83,59.63,Small Business
+2025-03-13,East,Standing Desk,Furniture,Frank Li,4,2050.4,1502.37,Corporate
+2025-03-15,East,Bookshelf,Furniture,Eva Chen,6,1087.07,713.23,Consumer
+2025-03-21,North,Laptop Pro,Electronics,Alice Moore,7,8752.09,5944.1,Consumer
+2025-03-23,West,Rain Jacket,Apparel,Grace Kim,7,843.17,495.27,Small Business
+2025-03-25,South,Notebook Pack,Stationery,Dan Perez,8,91.06,41.8,Small Business
+2025-03-29,West,Running Shoes,Apparel,Hugo Silva,24,2290.48,1454.51,Corporate
+2025-03-31,West,Office Chair,Furniture,Grace Kim,3,800.61,557.23,Consumer
+2025-04-01,South,Office Chair,Furniture,Dan Perez,7,1864.11,1332.06,Small Business
+2025-04-02,West,Office Chair,Furniture,Hugo Silva,6,1526.28,1071.8,Corporate
+2025-04-02,East,Laptop Pro,Electronics,Frank Li,6,8179.36,5945.65,Corporate
+2025-04-04,East,Notebook Pack,Stationery,Eva Chen,16,224.59,94.71,Corporate
+2025-04-08,East,Running Shoes,Apparel,Frank Li,19,2015.98,1174.9,Corporate
+2025-04-09,North,Laptop Pro,Electronics,Ben Carter,2,2757.29,2103.17,Corporate
+2025-04-11,North,Backpack,Apparel,Ben Carter,10,690.59,344.2,Consumer
+2025-04-12,North,Wireless Earbuds,Electronics,Alice Moore,1,166.98,85.45,Corporate
+2025-04-14,South,Backpack,Apparel,Dan Perez,2,125.74,67.41,Consumer
+2025-04-15,South,Notebook Pack,Stationery,Carla Diaz,16,185.86,96.04,Consumer
+2025-04-16,North,Smartphone X,Electronics,Alice Moore,1,922.4,581.31,Corporate
+2025-04-20,North,Running Shoes,Apparel,Ben Carter,23,2261.33,1294.15,Corporate
+2025-04-20,North,Notebook Pack,Stationery,Alice Moore,11,155.87,78.76,Small Business
+2025-04-20,North,Rain Jacket,Apparel,Alice Moore,3,360.33,241.83,Consumer
+2025-04-21,West,Office Chair,Furniture,Hugo Silva,7,2032.37,1583.98,Small Business
+2025-04-24,South,Notebook Pack,Stationery,Carla Diaz,20,273.91,120.71,Small Business
+2025-04-27,West,Backpack,Apparel,Hugo Silva,24,1548.23,753.53,Consumer
+2025-05-06,West,Gel Pens,Stationery,Grace Kim,7,59.5,22.53,Corporate
+2025-05-07,South,Backpack,Apparel,Dan Perez,22,1412.45,720.77,Small Business
+2025-05-09,North,Laptop Pro,Electronics,Ben Carter,2,2450.17,1787.62,Corporate
+2025-05-13,North,Running Shoes,Apparel,Ben Carter,12,1108.96,603.69,Small Business
+2025-05-13,South,Standing Desk,Furniture,Carla Diaz,3,1569.81,1092.79,Small Business
+2025-05-14,East,Backpack,Apparel,Eva Chen,24,1570.38,810.57,Corporate
+2025-05-15,North,Desk Organizer,Stationery,Alice Moore,15,455.46,216.14,Consumer
+2025-05-18,North,Running Shoes,Apparel,Alice Moore,24,2420.36,1538.6,Corporate
+2025-05-20,South,Desk Organizer,Stationery,Dan Perez,1,26.36,14.25,Small Business
+2025-05-23,East,Gel Pens,Stationery,Eva Chen,5,43.74,16.58,Consumer
+2025-05-24,East,Desk Organizer,Stationery,Eva Chen,20,513.99,246.36,Corporate
+2025-05-30,East,Backpack,Apparel,Eva Chen,10,720.52,352.84,Consumer
+2025-05-30,East,Standing Desk,Furniture,Eva Chen,3,1557.39,1252.38,Consumer
+2025-06-01,West,Desk Organizer,Stationery,Hugo Silva,9,240.82,126.46,Consumer
+2025-06-05,East,Bookshelf,Furniture,Frank Li,6,1365.89,824.91,Corporate
+2025-06-07,West,Desk Organizer,Stationery,Hugo Silva,12,364.65,164.91,Consumer
+2025-06-07,East,Standing Desk,Furniture,Eva Chen,7,4095.13,3371.52,Corporate
+2025-06-08,South,Desk Organizer,Stationery,Dan Perez,10,298.18,145.25,Small Business
+2025-06-11,West,Wireless Earbuds,Electronics,Hugo Silva,1,173.0,101.75,Consumer
+2025-06-12,East,Rain Jacket,Apparel,Eva Chen,2,300.62,175.92,Corporate
+2025-06-12,West,Office Chair,Furniture,Hugo Silva,6,1565.25,1057.11,Consumer
+2025-06-13,West,Smartphone X,Electronics,Grace Kim,2,1926.34,1278.67,Consumer
+2025-06-13,East,Rain Jacket,Apparel,Eva Chen,2,265.07,158.81,Corporate
+2025-06-13,North,Desk Organizer,Stationery,Ben Carter,15,413.55,220.4,Small Business
+2025-06-14,South,Rain Jacket,Apparel,Dan Perez,3,452.02,295.08,Corporate
+2025-06-15,North,Wireless Earbuds,Electronics,Alice Moore,2,364.1,190.15,Small Business
+2025-06-15,South,Laptop Pro,Electronics,Carla Diaz,2,2508.94,1843.24,Small Business
+2025-06-15,South,Laptop Pro,Electronics,Dan Perez,2,2954.27,2225.04,Small Business
+2025-06-16,East,Bookshelf,Furniture,Frank Li,1,226.84,139.84,Small Business
+2025-06-18,North,Running Shoes,Apparel,Ben Carter,4,411.99,228.61,Small Business
+2025-06-18,West,Gel Pens,Stationery,Hugo Silva,21,178.29,77.24,Corporate
+2025-06-24,South,Office Chair,Furniture,Carla Diaz,4,1086.89,770.95,Corporate
+2025-06-29,North,Notebook Pack,Stationery,Ben Carter,5,65.37,28.31,Corporate
+2025-06-30,West,Standing Desk,Furniture,Grace Kim,5,2740.38,2316.44,Small Business
+2025-06-30,South,Laptop Pro,Electronics,Carla Diaz,7,9654.04,6489.31,Corporate
+2025-07-01,North,Backpack,Apparel,Alice Moore,17,1140.09,590.03,Consumer
+2025-07-02,West,Backpack,Apparel,Hugo Silva,1,68.54,37.73,Consumer
+2025-07-03,South,Notebook Pack,Stationery,Carla Diaz,24,357.66,175.92,Consumer
+2025-07-08,South,Laptop Pro,Electronics,Carla Diaz,7,10025.16,6695.86,Small Business
+2025-07-08,North,Office Chair,Furniture,Ben Carter,3,816.52,510.55,Consumer
+2025-07-10,East,Smartphone X,Electronics,Eva Chen,7,6468.62,4136.93,Corporate
+2025-07-14,West,Office Chair,Furniture,Hugo Silva,5,1317.11,979.14,Small Business
+2025-07-19,East,Gel Pens,Stationery,Eva Chen,16,149.04,58.37,Small Business
+2025-07-20,South,Smartphone X,Electronics,Dan Perez,7,5932.11,3825.27,Corporate
+2025-07-22,West,Office Chair,Furniture,Grace Kim,4,1145.44,728.23,Consumer
+2025-07-23,East,Running Shoes,Apparel,Frank Li,22,2425.61,1443.3,Corporate
+2025-08-03,West,Backpack,Apparel,Grace Kim,17,1165.5,682.2,Small Business
+2025-08-03,West,Standing Desk,Furniture,Grace Kim,1,498.56,360.12,Corporate
+2025-08-09,North,Laptop Pro,Electronics,Ben Carter,7,8344.9,6753.54,Consumer
+2025-08-10,East,Desk Organizer,Stationery,Eva Chen,9,221.93,103.14,Small Business
+2025-08-13,North,Office Chair,Furniture,Alice Moore,7,1779.74,1100.52,Corporate
+2025-08-13,South,Smartphone X,Electronics,Dan Perez,3,2637.27,1954.38,Corporate
+2025-08-15,South,Gel Pens,Stationery,Carla Diaz,13,106.34,48.24,Consumer
+2025-08-18,West,Backpack,Apparel,Hugo Silva,10,621.67,340.14,Corporate
+2025-08-20,West,Running Shoes,Apparel,Grace Kim,7,658.85,373.96,Consumer
+2025-08-21,East,Backpack,Apparel,Frank Li,3,202.24,96.87,Small Business
+2025-08-27,West,Smartphone X,Electronics,Grace Kim,4,3686.72,2772.56,Consumer
+2025-08-27,East,Bookshelf,Furniture,Frank Li,4,784.1,530.5,Corporate
+2025-08-27,East,Smartphone X,Electronics,Eva Chen,6,5452.01,3978.54,Consumer
+2025-08-28,West,Running Shoes,Apparel,Grace Kim,10,1002.83,545.2,Small Business
+2025-09-02,South,Office Chair,Furniture,Dan Perez,4,1087.57,771.3,Corporate
+2025-09-02,North,Running Shoes,Apparel,Alice Moore,17,1429.92,851.6,Small Business
+2025-09-03,East,Wireless Earbuds,Electronics,Eva Chen,4,553.28,293.08,Consumer
+2025-09-06,North,Office Chair,Furniture,Alice Moore,2,535.9,411.11,Consumer
+2025-09-06,West,Running Shoes,Apparel,Grace Kim,9,737.12,421.37,Small Business
+2025-09-07,West,Laptop Pro,Electronics,Hugo Silva,2,2561.71,1709.06,Small Business
+2025-09-10,West,Gel Pens,Stationery,Hugo Silva,11,84.61,35.52,Consumer
+2025-09-13,West,Smartphone X,Electronics,Hugo Silva,3,2625.94,2064.77,Small Business
+2025-09-13,South,Running Shoes,Apparel,Carla Diaz,22,2047.96,1139.61,Small Business
+2025-09-13,West,Running Shoes,Apparel,Grace Kim,21,2002.68,1074.4,Consumer
+2025-09-14,South,Smartphone X,Electronics,Dan Perez,2,1537.91,1124.77,Consumer
+2025-09-20,East,Notebook Pack,Stationery,Eva Chen,6,68.33,28.91,Small Business
+2025-09-21,South,Smartphone X,Electronics,Carla Diaz,6,4603.54,3269.65,Corporate
+2025-09-23,East,Desk Organizer,Stationery,Eva Chen,19,503.43,257.51,Corporate
+2025-09-24,North,Bookshelf,Furniture,Alice Moore,3,566.21,317.23,Small Business
+2025-09-25,South,Laptop Pro,Electronics,Carla Diaz,6,6938.49,5494.3,Corporate
+2025-09-26,West,Notebook Pack,Stationery,Hugo Silva,19,241.04,101.1,Corporate
+2025-09-27,West,Gel Pens,Stationery,Hugo Silva,4,32.23,13.26,Small Business
+2025-09-29,North,Standing Desk,Furniture,Alice Moore,3,1629.12,1099.63,Corporate
+2025-10-01,North,Desk Organizer,Stationery,Alice Moore,11,278.09,145.86,Small Business
+2025-10-02,West,Backpack,Apparel,Hugo Silva,15,817.94,422.58,Corporate
+2025-10-04,North,Desk Organizer,Stationery,Alice Moore,13,280.41,132.0,Small Business
+2025-10-07,East,Backpack,Apparel,Eva Chen,14,730.35,418.15,Small Business
+2025-10-09,North,Smartphone X,Electronics,Ben Carter,6,4406.15,2900.23,Corporate
+2025-10-12,South,Notebook Pack,Stationery,Carla Diaz,21,223.73,105.47,Corporate
+2025-10-14,South,Rain Jacket,Apparel,Carla Diaz,3,342.29,198.52,Consumer
+2025-10-15,East,Office Chair,Furniture,Eva Chen,4,882.86,554.78,Small Business
+2025-10-17,East,Standing Desk,Furniture,Frank Li,6,2529.75,1856.39,Corporate
+2025-10-21,North,Running Shoes,Apparel,Alice Moore,1,88.03,54.44,Small Business
+2025-10-26,North,Bookshelf,Furniture,Ben Carter,6,1022.33,656.4,Consumer
+2025-10-29,East,Smartphone X,Electronics,Eva Chen,1,684.32,542.2,Corporate
+2025-10-29,East,Office Chair,Furniture,Eva Chen,3,747.87,533.19,Consumer
+2025-10-29,East,Standing Desk,Furniture,Eva Chen,4,1713.75,1181.2,Small Business
+2025-10-30,South,Running Shoes,Apparel,Dan Perez,8,666.6,432.54,Small Business
+2025-11-01,South,Smartphone X,Electronics,Dan Perez,7,4544.69,3304.09,Consumer
+2025-11-03,East,Backpack,Apparel,Eva Chen,20,961.69,458.39,Corporate
+2025-11-03,South,Smartphone X,Electronics,Dan Perez,2,1416.74,971.15,Consumer
+2025-11-04,West,Bookshelf,Furniture,Hugo Silva,3,449.96,298.68,Consumer
+2025-11-04,South,Notebook Pack,Stationery,Carla Diaz,10,95.64,46.86,Corporate
+2025-11-05,West,Smartphone X,Electronics,Grace Kim,1,642.77,414.81,Corporate
+2025-11-06,South,Notebook Pack,Stationery,Dan Perez,13,125.01,56.23,Small Business
+2025-11-06,South,Desk Organizer,Stationery,Carla Diaz,9,192.05,104.67,Small Business
+2025-11-08,West,Desk Organizer,Stationery,Hugo Silva,12,252.07,130.3,Small Business
+2025-11-14,North,Laptop Pro,Electronics,Ben Carter,6,5707.85,3986.99,Corporate
+2025-11-16,South,Smartphone X,Electronics,Carla Diaz,1,643.03,508.28,Consumer
+2025-11-17,North,Wireless Earbuds,Electronics,Ben Carter,5,698.43,429.71,Corporate
+2025-11-18,South,Standing Desk,Furniture,Carla Diaz,6,2807.82,2066.91,Corporate
+2025-11-28,East,Office Chair,Furniture,Frank Li,1,196.01,121.68,Corporate
+2025-11-30,South,Desk Organizer,Stationery,Dan Perez,12,241.15,112.56,Consumer
+2025-12-01,South,Rain Jacket,Apparel,Dan Perez,3,315.91,196.99,Small Business
+2025-12-02,South,Bookshelf,Furniture,Dan Perez,2,286.47,200.13,Consumer
+2025-12-03,South,Desk Organizer,Stationery,Dan Perez,19,417.58,205.33,Small Business
+2025-12-04,North,Office Chair,Furniture,Alice Moore,1,233.46,166.08,Consumer
+2025-12-06,West,Backpack,Apparel,Grace Kim,23,1115.14,607.43,Consumer
+2025-12-06,South,Rain Jacket,Apparel,Dan Perez,6,609.87,399.64,Small Business
+2025-12-07,North,Standing Desk,Furniture,Alice Moore,5,2215.63,1792.75,Small Business
+2025-12-07,North,Smartphone X,Electronics,Ben Carter,2,1232.51,800.34,Corporate
+2025-12-08,East,Running Shoes,Apparel,Frank Li,11,763.38,504.72,Consumer
+2025-12-12,West,Laptop Pro,Electronics,Hugo Silva,2,1886.09,1504.35,Consumer
+2025-12-13,East,Wireless Earbuds,Electronics,Eva Chen,7,942.53,528.68,Corporate
+2025-12-15,South,Running Shoes,Apparel,Carla Diaz,8,614.53,359.89,Consumer
+2025-12-16,West,Backpack,Apparel,Hugo Silva,14,762.42,454.97,Consumer
+2025-12-17,North,Desk Organizer,Stationery,Alice Moore,24,540.69,283.44,Small Business
+2025-12-17,East,Gel Pens,Stationery,Eva Chen,16,119.02,54.57,Consumer
+2025-12-18,East,Smartphone X,Electronics,Eva Chen,7,4716.11,3175.7,Consumer
+2025-12-18,West,Backpack,Apparel,Hugo Silva,6,327.38,155.65,Small Business
+2025-12-18,West,Notebook Pack,Stationery,Grace Kim,12,134.29,61.41,Small Business
+2025-12-21,East,Running Shoes,Apparel,Eva Chen,18,1334.72,720.7,Consumer
+2025-12-26,South,Rain Jacket,Apparel,Carla Diaz,6,661.37,428.64,Small Business
+2025-12-26,East,Office Chair,Furniture,Eva Chen,6,1298.14,938.67,Consumer
